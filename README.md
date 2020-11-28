@@ -1,6 +1,6 @@
-# Login and registration with MERN stack
+# Login and registration
 
-![Final App](client/public/mern-auth.gif)
+
 User Registration and Login functionality with validations using React, NodeJs, ExpressJs and MongoDB and authentication using passport and JWTs.
 
 Live Demo: https://mern-login-register.herokuapp.com/
